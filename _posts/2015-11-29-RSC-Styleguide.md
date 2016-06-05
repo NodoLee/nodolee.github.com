@@ -23,7 +23,7 @@ Royal Society of Chemistry (RSC)에 저널 투고할 때 참고할 Guideline 입
 ```
 P. E. Blöchl, *Phys. Rev. B: Condens. Matter Mater. Phys.*, 1994, **50**, 17953-17979.
 ```
-
+<br><br>
 **변경방법**
 
 1. Endnote 를 열고 Edit - Output Styles - Edit "Royal Society of Chemistry" 로 들어간다.
