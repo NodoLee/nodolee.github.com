@@ -19,11 +19,9 @@ Royal Society of Chemistry (RSC)에 저널 투고할 때 참고할 Guideline 입
 - 그런데 한가지 문제는 RSC Endnote Style을 다운로드 받아서 적용해보면 Style이 아래와 같이 나온다.    
 - Page 번호가 안내된대로 first page 가 아닌 page 범위가 나온다. 이미 발행된 논문들을 보니 상관없는 모양이다. 그런데 first page만 나오는게   더 깔끔하고 논문 찾을때도 저것만 필요하니까... 바꿔보자. 
 
-  
-```
-P. E. Blöchl, *Phys. Rev. B: Condens. Matter Mater. Phys.*, 1994, **50**, 17953-17979.
-```
-<br><br>
+<br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P. E. Blöchl, *Phys. Rev. B: Condens. Matter Mater. Phys.*, 1994, **50**, 17953-17979.
+<br><br><br>
 **변경방법**
 <br><br>
 1. Endnote 를 열고 Edit - Output Styles - Edit "Royal Society of Chemistry" 로 들어간다.  
