@@ -6,7 +6,7 @@ tag: module, modulefile, path
 ---
 
 
-Modules 구성하다가 modulefile을 인식 가능한 PATH가 아래의 경로로 고정되어 있다.
+Modules 구성하다가보니 modulefile을 인식 가능한 PATH가 아래의 경로로 고정되어 있다.
 
 >~/Applications/Modules/3.2.10/modulefiles
 
