@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modules 기능 사용시 modulefile 인식 가능한 PATH 등록하기"
+title:  "Royal Society of Chemistry (RSC) Journal Style Guidelines"
 date:   2015-11-29
 tag: RSC, Endnote, Style
 ---
