@@ -32,6 +32,5 @@ Royal Society of Chemistry (RSC)에 저널 투고할 때 참고할 Guideline 입
 <br><br>
 2. 왼쪽 탭에 Page Numbers 로 들어가서 두번째 "Show only the first page number (e.g. 123)"를 선택해 주고 저장하면 된다.
 
-<img src="https://dl.dropboxusercontent.com/u/7761412/2015-12-03_pm_7.33.26.png" align="center" width="600px")
-
+<img src="https://dl.dropboxusercontent.com/u/7761412/2015-12-03_pm_7.33.26.png" align="center" width="600px">
 
