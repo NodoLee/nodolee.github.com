@@ -25,11 +25,14 @@ P. E. Blöchl, *Phys. Rev. B: Condens. Matter Mater. Phys.*, 1994, **50**, 17953
 ```
 <br><br>
 **변경방법**
-
+<br><br>
 1. Endnote 를 열고 Edit - Output Styles - Edit "Royal Society of Chemistry" 로 들어간다.  
-![image](https://dl.dropboxusercontent.com/u/7761412/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2015-12-03_%EC%98%A4%ED%9B%84_7.33.12.png)  
 
+![image](https://dl.dropboxusercontent.com/u/7761412/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2015-12-03_%EC%98%A4%ED%9B%84_7.33.12.png =480x)  
 
-
+<br><br>
 2. 왼쪽 탭에 Page Numbers 로 들어가서 두번째 "Show only the first page number (e.g. 123)"를 선택해 주고 저장하면 된다.
+
+![image](https://dl.dropboxusercontent.com/u/7761412/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2015-12-03_%EC%98%A4%ED%9B%84_7.33.26.png =600x)
+
 
