@@ -59,7 +59,7 @@ Basic Packages:
 ---------------
 "
 
-for i in 'wget' 'coreutils' 'watch' 'gnuplot --with-x11' 'homebrew/x11/xclip' 'vim' 'homebrew/dupes/rsync' 'lynx'
+for i in 'wget' 'coreutils' 'watch' 'gnuplot --with-x11' 'homebrew/x11/xclip' 'vim' 'homebrew/dupes/rsync' 'lynx'  
 do
 
     brew install $i
