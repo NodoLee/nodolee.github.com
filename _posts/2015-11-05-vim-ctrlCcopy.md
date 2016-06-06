@@ -2,6 +2,7 @@
 layout: post
 title:  "xclip으로 vi editor 안에서 ctrl+C로 복사하기"
 date:   2015-11-05
+Tags:   Linux, Vim, xclip, copy, 복사
 
 ---
 
