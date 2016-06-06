@@ -7,9 +7,10 @@ Tags:   Linux, Vim, xclip, copy, 복사
 ---
 
 
-xcode + xcode command line tool 설치된 상태에서 Homebrew를 자동으로 설치하고 cask를 이용하여 필요한 소프트웨어들을 자동으로 설치해 주는 terminal script를 공유합니다.
-
-설치 소프트에어 목록은 아래와 같습니다.
+xcode + xcode command line tool 설치된 상태에서 Homebrew를 자동으로 설치하고 cask를 이용하여 필요한 소프트웨어들을 자동으로 설치해 주는 terminal script를 공유합니다.  
+<br><br>
+설치 소프트에어 목록은 아래와 같습니다.  
+<br>
 xquartz 'wget' 'coreutils' 'watch' 'gnuplot --with-x11' 'homebrew/x11/xclip' 'vim' 'homebrew/dupes/rsync' 'lynx' java istat-menus appcleaner keepingyouawake python alfred bittorrent-sync transmission coconutbattery 1password google-chrome hazel thunderbird teamviewer
 
 
