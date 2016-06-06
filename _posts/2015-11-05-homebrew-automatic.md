@@ -14,7 +14,7 @@ xquartz 'wget' 'coreutils' 'watch' 'gnuplot --with-x11' 'homebrew/x11/xclip' 'vi
 
 
 
-```
+```shell
 !/bin/bash
 
 echo "
