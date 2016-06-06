@@ -15,7 +15,7 @@ xquartz 'wget' 'coreutils' 'watch' 'gnuplot --with-x11' 'homebrew/x11/xclip' 'vi
 
 
 
-```shell
+~~~shell
 #!/bin/bash
 
 echo "
@@ -81,4 +81,4 @@ do
 
 done
 
-```
+~~~
