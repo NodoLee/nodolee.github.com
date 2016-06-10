@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SONY 캠코더 영상 처리하기 (DVD 제작)"
-date:   2015-11-01
+date:   2015-10-23
 Tags:   SONY, DVD, 캠코더, mts, eac3to, tsMuxeR, AVCHD
 
 ---
