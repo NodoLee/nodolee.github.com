@@ -14,7 +14,7 @@ SONY 캠코더로 찍은 영상들은 AVCHD 형식 (.mts) 로 저장이 되더�
 
 하지만, 문제가 있습니다.
 
-무조건 번호순으로 정렬이 되기 때문에 약간의 script가 필요하여 Python으로 .bat 파일내부에 파일 순서 변경
+무조건 번호순으로 정렬이 되기 때문에 약간의 script가 필요하여 Python으로 .bat 파일내부에 파일 순서 변경해 줍니다.
 
     #!/usr/local/bin/python
     
