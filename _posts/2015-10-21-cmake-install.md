@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "cmake 설치하기"
-date:   2015-10-21
+date:   2015-10-22
 tag: Linux, cmake
 ---
 
