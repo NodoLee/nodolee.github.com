@@ -10,8 +10,9 @@ openbabel 설치를 하려고 하는데 cmake가 없다.
 
 1. [cmake 다운로드](https://cmake.org/download/)
 1. 압축을 풀고
-
+<br>
     `tar xvfz cmake-3.3.2.tar.gz`
+<br>
 1. 아래 순서대로 설치 진행
 
 	```
