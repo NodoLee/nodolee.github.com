@@ -11,11 +11,12 @@ tag: Mac, Terminal, Command line, wifi
 1. 아래와 같이 WIFI를 끄고 켤 수 있습니다. 첫 명령어 실행때에는 계정 암호를 입력해야 합니다.
 
         sudo ifconfig en0 down
-      
+<br>      
 
 1. airtport 명령어를 이용하여 주변의 와이파이를 검색해 보겠습니다. System 디렉터리 아래 깊숙한 곳에 숨겨져 있습니다. `-s` 옵션이 바로 와이파이를 검색하라는 명령어 입니다.
 
         /System/Library/PrivateFrameworks/Apple80211.framework/Versions/A/Resources/airport -s
+<br>
 
 3. *olleh_starbucks* 와이파이가 보이네요. *olleh_starbucks*에 접속해 보겠습니다.
 
