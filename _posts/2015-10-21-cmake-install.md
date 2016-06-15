@@ -16,10 +16,8 @@ openbabel 설치를 하려고 하는데 cmake가 없다.
 <br><br>
 1. 아래 순서대로 설치 진행
 
-	```
-	cd cmake-3.3.2
-	./bootstrap
-	gmake
-	make DESTDIR=/home/john
-	install
-	```
+        cd cmake-3.3.2
+        ./bootstrap
+        gmake
+        make DESTDIR=/home/john
+        install
