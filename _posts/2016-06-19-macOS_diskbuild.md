@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "macOS Sierra USB 설치 디스크 만들기"
-date:   2016-05-25 00:57:23
+date:   2016-06-19 00:57:23
 ---
 
 
