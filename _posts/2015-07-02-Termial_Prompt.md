@@ -23,7 +23,7 @@ Terminal 이용시 예픈 프롬프트 만들기...
 
 아래에 .bashrc prompt generation 해주는 사이트 링크로 이어지면 프롬프트를 자유자재로 변경 가능하니 참고하시기 바랍니다.
 
-
-See also.
+<br>
+**See also.**
 
 - [.bashrc PS1 generator](http://bashrcgenerator.com/)
