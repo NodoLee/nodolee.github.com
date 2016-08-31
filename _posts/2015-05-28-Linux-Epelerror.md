@@ -28,8 +28,8 @@ Error : Cannot retrieve metalink for repositroy: epel. Please verify its path an
 
 그리고나서 다시 `yum repolist`를 실행해주면 repolist가 업데이트 되고 Octave 설치가 가능해진다.
 
- 
-[epel]
+     
+    [epel]
     name=Extra Packages for Enterprise Linux 6 - $basearch
     baseurl=http://download.fedoraproject.org/pub/epel/6/$basearch
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-6&arch=$basearch
