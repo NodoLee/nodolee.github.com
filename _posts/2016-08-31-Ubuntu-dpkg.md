@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu apt-get dpkg 오류 해결방법"
-date:   2016-06-20 00:57:23
+date:   2016-08-31 00:57:23
 ---
 
 Ubuntu에서 apt-get 이용할 때 아래와 같은 오류가 발생할 때가 있다.
