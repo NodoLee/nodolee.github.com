@@ -18,8 +18,7 @@ E: Unable to lock the administration directory (/var/lib/dpkg/) is another proce
     sudo rm /var/cache/apt/archives/lock
 
 
-<br><br><br>
-
+<br><br>
 
 
 **참고**
