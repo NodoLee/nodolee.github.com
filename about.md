@@ -21,4 +21,7 @@ School of Materials Science and Engineering, Gwangju Institute of Science and Te
 Department of Materials Science and Engineering, Gwangju Institute of Science and Technology, Gwangju (GIST), Korea [Advisor: Prof. Yun Hee Jang]
 
 **Bachelor of Science** (Mar, 2003 ~ Feb. 2008)<br>
-Department of Materials Science and Engineering, Korea University of Technology and Education (KoreaTech), Cheonan, Korea [Advisor: Prof. Y. Kim] • Fabrication of high–refractive index differences SiON planar optical waveguide film using PECVD. Graduation portfolio and paper (2006) • Completion of teaching profession of the secondary school teacher (Grade II) of technology (2008)
+Department of Materials Science and Engineering, Korea University of Technology and Education (KoreaTech), Cheonan, Korea [Advisor: Prof. Y. Kim]<br>
+
+- Fabrication of high–refractive index differences SiON planar optical waveguide film using PECVD. Graduation portfolio and paper (2006)
+- Completion of teaching profession of the secondary school teacher (Grade II) of technology (2008)
