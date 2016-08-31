@@ -24,7 +24,7 @@ date:   2015-05-28 20:56:23
 Error : Cannot retrieve metalink for repositroy: epel. Please verify its path and try again.
  
  
-이제 `/etc/yum.repos.d/epel.repo` 파일을 열어서 아래와 같이 `baseurl`은 주석해제 `mirrorlist`는 주석처리를 해준다.
+이제 `/etc/yum.repos.d/epel.repo` 파일을 열어서 아래와 같이 baseurl은 주석해제 mirrorlist는 주석처리를 해준다.
 
 그리고나서 다시 `yum repolist`를 실행해주면 repolist가 업데이트 되고 Octave 설치가 가능해진다.
 
