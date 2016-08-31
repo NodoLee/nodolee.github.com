@@ -7,6 +7,7 @@ date:   2016-06-20 00:57:23
 Ubuntu에서 apt-get 이용할 때 아래와 같은 오류가 발생할 때가 있다.
 
 E: Could not get lock /var/lib/dpkg/lock - open (11 Resource temporarily unavailable)
+
 E: Unable to lock the administration directory (/var/lib/dpkg/) is another process using it?
 
     
@@ -15,6 +16,8 @@ E: Unable to lock the administration directory (/var/lib/dpkg/) is another proce
     sudo rm /var/lib/apt/lists/lock
 
     sudo rm /var/cache/apt/archives/lock
+
+
 
 
 **참고**
