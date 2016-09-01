@@ -2,6 +2,7 @@
 layout: page
 title: Linux
 permalink: /linux/
+order: 1
 ---
 
 - 08/31/2016 (Wed)  [Ubuntu 16 기본 프롬프트](http://nodolee.github.io/2016/08/31/Ubuntu-PS1/)

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 3
 ---
 
 **Current affiliation** (Feb. 2016 ~ Present)<br>
