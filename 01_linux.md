@@ -9,7 +9,6 @@ order: 1
 1. [Ubuntu apt-get 사용시 dpkg 오류 해결방법](http://nodolee.github.io/2016/08/31/Ubuntu_dpkg/)
 1. [리눅스에서 윈도우 폰트를 사용하는 방법](http://nodolee.github.io/2016/08/30/Font_Linux/)
 1. [GCC 4.9 Release](http://nodolee.github.io/2016/08/03/GCC49-release/)
-1. [텍스트 처리할 때 유용한 Command (sed)](http://nodolee.github.io/2015/10/23/shell-sed1/)
 1. [cmake 설치하기](http://nodolee.github.io/2015/10/20/Find-oldfiles/)
 1. [오래된 데이터 정리할 때 유용한 Commands](http://nodolee.github.io/2015/10/20/Find-oldfiles/)
 1. [백그라운드에서 프로세스 실행하기](http://nodolee.github.io/2015/10/11/nohup/)
