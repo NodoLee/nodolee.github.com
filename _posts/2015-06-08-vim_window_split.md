@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [vi editor] 에서 창 나누어 보기
+title:  vi editor 에서 창 나누어 보기
 date:   2015-06-18 20:03:23
 ---
 
