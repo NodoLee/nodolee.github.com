@@ -370,44 +370,44 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2016-08-30-Font_Linux.md</key>
+			<key>2016-08-30-font_linux.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>494637334.597552</real>
+				<real>494659229.18306702</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>2</integer>
+					<integer>28</integer>
 				</dict>
 			</dict>
-			<key>2016-08-31-Ubuntu-PS1.md</key>
+			<key>2016-08-31-ubuntu-ps1.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>494637334.59755403</real>
+				<real>494659221.513318</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>2</integer>
+					<integer>26</integer>
 				</dict>
 			</dict>
-			<key>2016-08-31-Ubuntu_dpkg.md</key>
+			<key>2016-08-31-ubuntu_dpkg.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>494637334.59755301</real>
+				<real>494659224.51452899</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>2</integer>
+					<integer>27</integer>
 				</dict>
 			</dict>
-			<key>2016-09-01-Mac_terminal.md</key>
+			<key>2016-09-01-mac_terminal.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>494637334.59755898</real>
+				<real>494659215.889691</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>2</integer>
+					<integer>25</integer>
 				</dict>
 			</dict>
 			<key>2016-09-03-vim_comment.md</key>
@@ -420,14 +420,14 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2016-09-04-VIM_replace_text.md</key>
+			<key>2016-09-04-vim_replace_text.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>494658541.37753701</real>
+				<real>494659201.87866402</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>22</integer>
+					<integer>24</integer>
 				</dict>
 			</dict>
 			<key>Untitled - 2.md</key>
@@ -455,7 +455,7 @@
 			<string>Untitled - 2.md</string>
 		</array>
 		<array>
-			<string>2016-09-04-VIM_replace_text.md</string>
+			<string>2016-09-04-vim_replace_text.md</string>
 		</array>
 		<array>
 			<string>2016-05-25-hazel.md</string>
@@ -536,19 +536,19 @@
 			<string>2016-06-19-macOS_diskbuild.md</string>
 		</array>
 		<array>
-			<string>2016-08-30-Font_Linux.md</string>
+			<string>2016-08-30-font_linux.md</string>
 		</array>
 		<array>
 			<string>2016-06-20-SFmono-Font.md</string>
 		</array>
 		<array>
-			<string>2016-08-31-Ubuntu_dpkg.md</string>
+			<string>2016-08-31-ubuntu_dpkg.md</string>
 		</array>
 		<array>
 			<string>2016-08-03-gcc49-release.md</string>
 		</array>
 		<array>
-			<string>2016-08-31-Ubuntu-PS1.md</string>
+			<string>2016-08-31-ubuntu-ps1.md</string>
 		</array>
 		<array>
 			<string>2015-10-20-Find-oldfiles.md</string>
@@ -572,7 +572,7 @@
 			<string>2015-05-28-Linux-Epelerror.md</string>
 		</array>
 		<array>
-			<string>2016-09-01-Mac_terminal.md</string>
+			<string>2016-09-01-mac_terminal.md</string>
 		</array>
 		<array>
 			<string>2016-09-03-vim_comment.md</string>
@@ -585,7 +585,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>23</integer>
+			<integer>28</integer>
 		</dict>
 	</dict>
 </dict>
