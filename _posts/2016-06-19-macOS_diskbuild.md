@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "macOS Sierra USB 설치 디스크 만들기"
-date:   2016-06-19 00:57:23
+date:   2016-09-04 00:57:23
 ---
 
 
@@ -20,6 +20,6 @@ macOS Sierra developer preview 1 버전이 개발자들에게 공개되었다. �
 1. 터미널을 열고
 
 1. 아래와 같이 명령어를 입력하면 macOS 설치 디스크가 완성이 된다.  
-USB 메모리의 쓰기 속도 성능에 따라 수분에서 수십분이 소요될 수 있으니 참고하기 바란다.
+	USB 메모리의 쓰기 속도 성능에 따라 수분에서 수십분이 소요될 수 있으니 참고하기 바란다.
 
-          sudo /Volumes/Install\ 10.12\ Developer\ Preview/Install\ 10.12\ Developer\ Preview.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Volumes/Install\ 10.12\ Developer\ Preview/Install\ 10.12\ Developer\ Preview.app --nointeraction
+		  sudo /Volumes/Install\ 10.12\ Developer\ Preview/Install\ 10.12\ Developer\ Preview.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Volumes/Install\ 10.12\ Developer\ Preview/Install\ 10.12\ Developer\ Preview.app --nointeraction
