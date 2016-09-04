@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Vim 텍스트 치환 방법”
+title:  Vim 텍스트 치환 방법
 date:   2016-09-04
 Tags:  Vim, vi editor, 치환, sed
 ---
