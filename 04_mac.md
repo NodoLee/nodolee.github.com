@@ -17,7 +17,7 @@ order: 2
 1. [터미널 명령어를 이용해 WIFI 를 컨트롤 하는 방법][10]
 1. [iTerm2 터미널 탭과 윈도우 타이틀바에 현재 경로 표시하기][11]
 
-[1]:	http://nodolee.github.io/2016/06/19/macOS_diskbuild/
+[1]:	http://nodolee.github.io/2016/09/04/macOS_diskbuild/ "macOS Sierra USB 설치 디스크 만들기"
 [2]:	http://nodolee.github.io/2016/08/03/GCC49-release/ "GCC 4.9 Release"
 [4]:	http://nodolee.github.io/2016/05/25/hazel/
 [5]:	http://nodolee.github.io/2016/03/27/archey/
