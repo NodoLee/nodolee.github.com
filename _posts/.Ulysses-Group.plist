@@ -340,16 +340,6 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2016-06-19-macOS_diskbuild.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>494637334.59755099</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>2</integer>
-				</dict>
-			</dict>
 			<key>2016-06-20-SFmono-Font.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -418,6 +408,16 @@
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>2016-09-04-macOS_diskbuild.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>494660241.27723998</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>29</integer>
 				</dict>
 			</dict>
 			<key>2016-09-04-vim_replace_text.md</key>
@@ -535,7 +535,7 @@
 			<string>2015-10-21-cmake-install.md</string>
 		</array>
 		<array>
-			<string>2016-06-19-macOS_diskbuild.md</string>
+			<string>2016-09-04-macOS_diskbuild.md</string>
 		</array>
 		<array>
 			<string>2016-08-30-font_linux.md</string>
@@ -589,7 +589,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>28</integer>
+			<integer>30</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
