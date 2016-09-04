@@ -5,8 +5,8 @@ permalink: /linux/
 order: 1
 ---
 
-1. [Vim 텍스트 치환 방법][1]
-1. [vi editor 주석처리 및 주석제거 방법][2]
+1. [\[vi editor] 텍스트 치환 방법][1]
+1. [\[vi editor] 주석처리 및 주석제거 방법][2]
 1. [Ubuntu 16 기본 Prompt][3]
 1. [Ubuntu apt-get 사용시 dpkg 오류 해결방법][4]
 1. [리눅스에서 윈도우 폰트를 사용하는 방법][5]
@@ -21,7 +21,7 @@ order: 1
 1. [리눅스 에서 zip 파일 압축하기/압축풀기][14]
 1. [Rsync 예제][15]
 1. [Terminal Prompt 꾸미기][16]
-1. [vi editor 에서 창 나누어 보기][17]
+1. [\[vi editor] 에서 창 나누어 보기][17]
 1. [Linux에 Octave 설치][18]
 1. [리눅스 파일내용에 ^M 없애는 방법][19]
 
