@@ -11,6 +11,7 @@ order: 2
 1. [Random하게 맥 어드레스 생성하기][4]
 1. [homebrew 설치부터 cask로 기본 프로그램 자동설치 script][5]
 1. [archey 로 시스템 정보 표시하기][6]
+2. [iTerm2 터미널 탭과 윈도우 타이틀바에 현재 경로 표시하기][7]
 
 [1]:	http://nodolee.github.io/2016/06/19/macOS_diskbuild/
 [2]:	http://nodolee.github.io/2015/10/31/Macaddresschange/
@@ -18,3 +19,4 @@ order: 2
 [4]:	http://nodolee.github.io/2015/11/01/opsnssl-randommacaddress/
 [5]:	http://nodolee.github.io/2015/11/05/homebrew-automatic/
 [6]:	http://nodolee.github.io/2016/03/27/archey/
+[7]:	http://nodolee.github.io/2015/09/05/iTerm_Titlebar-Path/
