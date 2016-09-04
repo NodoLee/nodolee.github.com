@@ -445,6 +445,8 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetOrder</key>
+		<real>494659311.72391701</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
@@ -578,6 +580,8 @@
 			<string>2016-09-03-vim_comment.md</string>
 		</array>
 	</array>
+	<key>sheetOrder</key>
+	<string>title,descending</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -586,6 +590,11 @@
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 			<integer>28</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 </dict>
