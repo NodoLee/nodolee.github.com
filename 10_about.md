@@ -9,7 +9,7 @@ order: 3
 
 
 
-#### Profile
+#### **Profile**
 
 **Current affiliation** (Feb. 2016 \~ Present)<br>
 Material Characterization Team, Materials and Components R&D Lab,<br>
