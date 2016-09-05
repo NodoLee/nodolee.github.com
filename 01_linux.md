@@ -6,13 +6,13 @@ order: 1
 ---
 
 1. [macOS Sierra 상단 메뉴 아이콘 정렬 방법][1]
-1. [[vi editor] 텍스트 치환 방법][1][2]
-1. [[vi editor] 주석처리 및 주석제거 방법][2][3]
+1. [vi editor 텍스트 치환 방법][2]
+1. [vi editor 주석처리 및 주석제거 방법][3]
 1. [Ubuntu 16 기본 Prompt][4]
 1. [Ubuntu apt-get 사용시 dpkg 오류 해결방법][5]
 1. [리눅스에서 윈도우 폰트를 사용하는 방법][6]
 1. [GCC 4.9 Release][7]
-1. [[Modules] modulefile 인식 가능한 PATH 등록하기][7][8]
+1. [Modules 기능 사용시 modulefile 인식 가능한 PATH 등록하기][8]
 1. [gcc 설치가 쉬워졌다][9]
 1. [xclip으로 vi editor 안에서 ctrl+C로 복사하기][10]
  1. [cmake 설치하기][11]
@@ -27,13 +27,13 @@ order: 1
 1. [리눅스 파일내용에 ^M 없애는 방법][20]
 
 [1]:	http://nodolee.github.io/2016/09/04/macossierra_menuicon/ "macOS Sierra 상단 메뉴 아이콘 정렬 방법"
-[2]:	http://nodolee.github.io/2016/09/04/VIM_replace_text/
-[3]:	http://nodolee.github.io/2016/09/03/vim_comment/
+[2]:	http://nodolee.github.io/2016/09/04/VIM_replace_text/ "vi editor 텍스트 치환 방법"
+[3]:	http://nodolee.github.io/2016/09/03/vim_comment/ "vi editor 주석처리 및 주석제거 방법"
 [4]:	http://nodolee.github.io/2016/08/31/Ubuntu-PS1/
 [5]:	http://nodolee.github.io/2016/08/31/Ubuntu_dpkg/
 [6]:	http://nodolee.github.io/2016/08/30/Font_Linux/
 [7]:	http://nodolee.github.io/2016/08/03/GCC49-release/
-[8]:	http://nodolee.github.io/2015/12/08/modulefile/
+[8]:	http://nodolee.github.io/2015/12/08/modulefile/ "Modules 기능 사용시 modulefile 인식 가능한 PATH 등록하기"
 [9]:	http://nodolee.github.io/2015/12/03/gcc-installation/
 [10]:	http://nodolee.github.io/2015/11/05/vim-ctrlCcopy/
 [11]:	http://nodolee.github.io/2015/10/20/Find-oldfiles/
