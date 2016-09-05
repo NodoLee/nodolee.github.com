@@ -5,7 +5,7 @@ permalink: /about/
 order: 3
 ---
 
-### Nodo Lee
+### **Nodo Lee**
 
 
 **Current affiliation** (Feb. 2016 \~ Present)<br>
