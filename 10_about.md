@@ -36,6 +36,13 @@ Department of Materials Science and Engineering, Korea University of Technology 
 1. Nodo Lee, Yves Lansac, Yun Hee Jang: Aluminum oxide formation at Al/La(1-x)Sr(x)MnO(3) interface: a computational study for resistance random access memory applications, _J. Nanosci. Nanotechnol._ 11, 339–343 (2011).
 1. Dong-jun Seong, Jubong Park, Nodo Lee, Musarrat Hasan, Seungjae Jung, Hyejung Choi, Joonmyoung Lee, Minseok Jo, Wootae, Lee, Sangsu Park, Seonghyun Kim, Yun Hee Jang, Y. Lee, M. Sung, D. Kil, Y. Hwang, S. Chung, S. Hong, J. Roh, Hyun-Sang Hwang: Effect of oxygen migration and interface engineering on resistance switching behavior of reactive metal/polycrystalline Pr0.7Ca0.3MnO3 device for nonvolatile memory applications, _IEEE International Electron Device Meeting (IEDM)_ 5.4.1-5.4.4 (2009) 
 
+#### **Experience**
+**Research Works**
+- Density functional theory (DFT) + Non-equilibrium Green Function (NEGF) calculations on the
+
+
+
+
 
 <br><br><br><br><br><br><br><br>
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com][1]
