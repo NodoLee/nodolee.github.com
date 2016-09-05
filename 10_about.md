@@ -21,6 +21,7 @@ Department of Materials Science and Engineering, Korea University of Technology 
 
 **Publication**
 
+1. Jinhee Lee, Nodo Lee, Yves Lansac, Hyun-sang Hwang, Yun Hee Jang: Switching Mechanism of Al/La 1-x SrxMnO3 Resistance Random Access Memory. II. Oxygen Vacancy in Aluminium Oxides (AlOx), _RSC Adv._ in revision.
 1. Nodo Lee, Yves Lansac, Hyun-sang Hwang, Yun Hee Jang: Switching Mechanism of Al/La1-xSrxMnO3 Resistance Random Access Memory. I. Oxygen Vacancy Formation in Perovskites, _RSC Adv._ 5, 102772-102779 (December 31, 2015)
 1. Nodo Lee, Jinhee Lee, Taekhee Ryu, Youngjune Kim, Yves Lansac, Yun Hee Jang: Doping graphene with ferroelectric beta-PVDF polymer film: Density functional theory calculation and molecular dynamics simulation, _Sci. Adv. Mater._ 6 (11), 2422-2427 (November, 2014) 
 1. Taekhee Ryu, Nodo Lee, Eunhwan Jung, Yves Lansac, Yun Hee Jang: Shuttlecock-Shaped Pentaarylfullerenes Self-Assembled on Au: Molecular Dynamics Simulation of a Molecular Rectifier, _Sci. Adv. Mater._ 6 (11), 2416-2421 (November, 2014) 
