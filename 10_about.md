@@ -5,11 +5,9 @@ permalink: /about/
 order: 3
 ---
 
-### **Nodo Lee**
-
+### **Nodo Lee**\<br\>\<br\>
 
 #### Profile
-
 
 **Current affiliation** (Feb. 2016 \~ Present)<br>
 Material Characterization Team, Materials and Components R&D Lab,<br>
