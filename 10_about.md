@@ -22,7 +22,7 @@ Department of Materials Science and Engineering, Gwangju Institute of Science an
 Department of Materials Science and Engineering, Korea University of Technology and Education (KoreaTech), Cheonan, Korea [Advisor: Prof. Y. Kim]<br>
 
 
-### **Publication**
+## **Publication**
 
 1. Jinhee Lee, Nodo Lee, Yves Lansac, Hyun-sang Hwang, Yun Hee Jang: Switching Mechanism of Al/La 1-x SrxMnO3 Resistance Random Access Memory. II. Oxygen Vacancy in Aluminium Oxides (AlOx), _RSC Adv._ in revision.
 1. Nodo Lee, Yves Lansac, Hyun-sang Hwang, Yun Hee Jang: Switching Mechanism of Al/La1-xSrxMnO3 Resistance Random Access Memory. I. Oxygen Vacancy Formation in Perovskites, _RSC Adv._ 5, 102772-102779 (December 31, 2015)
