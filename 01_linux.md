@@ -22,7 +22,7 @@ order: 1
 1. [리눅스 에서 zip 파일 압축하기/압축풀기][15]
 1. [Rsync 예제][16]
 1. [Terminal Prompt 꾸미기][17]
-1. [[vi editor] 에서 창 나누어 보기][17][18]
+1. [vi editor 에서 창 나누어 보기][18]
 1. [Linux에 Octave 설치][19]
 1. [리눅스 파일내용에 ^M 없애는 방법][20]
 
@@ -43,6 +43,6 @@ order: 1
 [15]:	http://nodolee.github.io/2015/07/10/Linux_Zip/
 [16]:	http://nodolee.github.io/2015/07/10/Rsync_Examples/
 [17]:	http://nodolee.github.io/2015/07/02/Termial_Prompt/
-[18]:	http://nodolee.github.io/2015/06/18/vim_window_split/
+[18]:	http://nodolee.github.io/2015/06/18/vim_window_split/ "vi editor 에서 창 나누어 보기"
 [19]:	Linux%EC%97%90%20Octave%20%EC%84%A4%EC%B9%98
 [20]:	http://nodolee.github.io/2012/06/27/removeM/
