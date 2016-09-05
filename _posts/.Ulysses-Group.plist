@@ -420,6 +420,20 @@
 					<integer>29</integer>
 				</dict>
 			</dict>
+			<key>2016-09-04-sierra_menu_icon_rearrange.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>494761293.991943</real>
+				<key>lastModification</key>
+				<real>494761293.991943</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>35</integer>
+				</dict>
+			</dict>
 			<key>2016-09-04-vim_replace_text.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -450,6 +464,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2016-09-04-sierra_menu_icon_rearrange.md</string>
+		</array>
 		<array>
 			<string>2012-06-07-removeM.md</string>
 		</array>
@@ -589,7 +606,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>30</integer>
+			<integer>35</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
