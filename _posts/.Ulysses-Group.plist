@@ -444,6 +444,26 @@
 					<integer>24</integer>
 				</dict>
 			</dict>
+			<key>2016-09-05-macossierra_menuicon.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>494890994.36848199</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>37</integer>
+				</dict>
+			</dict>
+			<key>2016-09-07-Ubuntu_predefs.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>494891076.04715002</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>40</integer>
+				</dict>
+			</dict>
 			<key>Untitled - 2.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -466,6 +486,9 @@
 	<array>
 		<array>
 			<string>2016-09-04-sierra_menu_icon_rearrange.md</string>
+		</array>
+		<array>
+			<string>2016-09-07-Ubuntu_predefs.md</string>
 		</array>
 		<array>
 			<string>2012-06-07-removeM.md</string>
@@ -596,6 +619,9 @@
 		<array>
 			<string>2016-09-03-vim_comment.md</string>
 		</array>
+		<array>
+			<string>2016-09-05-macossierra_menuicon.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>title,descending</string>
@@ -606,7 +632,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>35</integer>
+			<integer>41</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
