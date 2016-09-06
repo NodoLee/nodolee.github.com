@@ -11,3 +11,8 @@ ubuntu wulffman 설치시 아래와 같이 헤더 파일을 못찾는 경우가 
 해결방법은 libc를 설치하는 것이다.
 
 `sudo apt-get install libc*`
+
+**참고**
+- [Ubuntu Forums][1]
+
+[1]:	https://ubuntuforums.org/showthread.php?t=1877944
