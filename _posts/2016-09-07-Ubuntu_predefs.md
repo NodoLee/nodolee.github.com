@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Ubuntu predefs.h 파일 못찾을 때”
+title:  Ubuntu predefs.h 파일 못찾을 때
 date:   2016-09-07 23:57:23
 ---
 
