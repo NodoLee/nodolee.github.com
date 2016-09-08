@@ -474,6 +474,16 @@
 					<integer>45</integer>
 				</dict>
 			</dict>
+			<key>2016-09-09-xforms_library.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495065101.49295902</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>49</integer>
+				</dict>
+			</dict>
 			<key>Untitled - 2.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -496,6 +506,9 @@
 	<array>
 		<array>
 			<string>2016-09-04-sierra_menu_icon_rearrange.md</string>
+		</array>
+		<array>
+			<string>2016-09-09-xforms_library.md</string>
 		</array>
 		<array>
 			<string>2016-09-09-MacOS_Sierra_GM_public.md</string>
@@ -645,7 +658,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>46</integer>
+			<integer>50</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
