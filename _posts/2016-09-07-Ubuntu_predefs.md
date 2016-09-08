@@ -8,9 +8,11 @@ ubuntu에 wulffman 설치시 아래와 같이 헤더 파일을 못찾는 경우�
 
 > ‘make: \*\*\* No rule to make target '/usr/include/bits/predefs.h', needed by 'wulffman.o'.  Stop.
 
-해결방법은 libc를 설치하는 것이다.
+`gcc-multilib`를 설치하면 해결된다.
 
-`sudo apt-get install libc*`
+`sudo apt-get install gcc-multilib`
+
+그런데 해당 header 파일은 ubuntu 12 이후 버전에서는 이름이 변경된 것으로 보인다…
 
 **참고**
 
