@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  vi editor 주석처리 및 주석제거 방법
+title:  vi editor - 주석처리 및 주석제거 방법
 date:   2016-09-03 08:32:00
 ---
 
