@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ubuntu apt-get 사용시 dpkg 오류 해결방법"
+title:  "Ubuntu - apt-get 사용시 dpkg 오류 해결방법"
 date:   2016-08-31 00:57:23
 ---
 
@@ -13,11 +13,10 @@ E: Unable to lock the administration directory (/var/lib/dpkg/) is another proce
 
 이 때 Lock 파일을 삭제해 주면 해결할 수 있다.
 
-    sudo rm /var/lib/apt/lists/lock
+	sudo rm /var/lib/apt/lists/lock
 
 그래도 여전히 문제가 발생하면 cache directory에 있는 파일도 삭제하면 해결이 된다.
 
-    sudo rm /var/cache/apt/archives/lock
-    
+	sudo rm /var/cache/apt/archives/lock
 
 > 참고
