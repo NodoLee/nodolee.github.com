@@ -446,12 +446,16 @@
 			</dict>
 			<key>2016-09-05-macossierra_menuicon.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>495108029.876917</real>
 				<key>lastModification</key>
-				<real>494890994.36848199</real>
+				<real>495108029.876917</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>37</integer>
+					<integer>51</integer>
 				</dict>
 			</dict>
 			<key>2016-09-07-ubuntu_predefs.md</key>
@@ -658,7 +662,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>50</integer>
+			<integer>51</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
