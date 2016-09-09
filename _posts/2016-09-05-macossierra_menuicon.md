@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:  macOS Sierra - 상단 메뉴 아이콘 정렬 방법
+title:  “macOS Sierra - 상단 메뉴 아이콘 정렬 방법”
 date:   2016-09-04 00:57:23
 ---
 
