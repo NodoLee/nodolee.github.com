@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  macOS Sierra 퍼블릭 베타테스터용 GM release
+title:  macOS Sierra - 퍼블릭 베타테스터용 GM release
 date:   2016-09-09 04:57:23
 ---
 
