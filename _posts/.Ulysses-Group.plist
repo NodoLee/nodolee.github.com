@@ -484,6 +484,16 @@
 					<integer>49</integer>
 				</dict>
 			</dict>
+			<key>2016-09-10-ubuntu_locale.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495157583.39057797</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>60</integer>
+				</dict>
+			</dict>
 			<key>Untitled - 2.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -506,6 +516,9 @@
 	<array>
 		<array>
 			<string>2016-09-04-sierra_menu_icon_rearrange.md</string>
+		</array>
+		<array>
+			<string>2016-09-10-ubuntu_locale.md</string>
 		</array>
 		<array>
 			<string>2016-09-09-xforms_library.md</string>
@@ -658,7 +671,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>57</integer>
+			<integer>61</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
