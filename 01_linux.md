@@ -6,10 +6,10 @@ order: 1
 ---
 
 1. [Ubuntu - xforms 라이브러리][1]
-1. [Ubuntu predefs.h 파일 못찾을 때][2]
-1. [vi editor 텍스트 치환 방법][3]
-1. [vi editor 주석처리 및 주석제거 방법][4]
-1. [Ubuntu 16 기본 Prompt][5]
+1. [Ubuntu - predefs.h 파일 못찾을 때][2]
+1. [vi editor - 텍스트 치환 방법][3]
+1. [vi editor - 주석처리 및 주석제거 방법][4]
+1. [Ubuntu - 기본 Prompt][5]
 1. [Ubuntu apt-get 사용시 dpkg 오류 해결방법][6]
 1. [리눅스에서 윈도우 폰트를 사용하는 방법][7]
 1. [GCC 4.9 Release][8]
