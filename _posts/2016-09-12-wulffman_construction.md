@@ -21,7 +21,6 @@ date:   2016-09-12 23:57:23
 
 
 **Makefile of Wulffman 1.2.5p1**
-
 INCLDIR = -I. -I/usr/include/qhull -I/usr/include
 GVINCLDIR = -I/root/geomview-1.9.5/include
 LIBDIR = -L/usr/lib
@@ -32,6 +31,7 @@ DIST_DIR = wulffman_$(VERSION)
 MEASURE_DIST_DIR = measure_$(MEASURE_VERSION)
 
 `make wulffman`
+
 `make measure`
 
 [1]:	https://sourceforge.net/p/geomview/mailman/message/29503281/
