@@ -316,20 +316,6 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2016-05-07-gcc_6.1.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>494638357.39578301</real>
-				<key>lastModification</key>
-				<real>494638357.39578301</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>19</integer>
-				</dict>
-			</dict>
 			<key>2016-05-25-hazel.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -420,20 +406,6 @@
 					<integer>29</integer>
 				</dict>
 			</dict>
-			<key>2016-09-04-sierra_menu_icon_rearrange.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>494761293.991943</real>
-				<key>lastModification</key>
-				<real>494761293.991943</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>35</integer>
-				</dict>
-			</dict>
 			<key>2016-09-04-vim_replace_text.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -494,18 +466,14 @@
 					<integer>60</integer>
 				</dict>
 			</dict>
-			<key>Untitled - 2.md</key>
+			<key>2016-09-12-ubuntu_root_enable.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>494638300.04332101</real>
 				<key>lastModification</key>
-				<real>494638300.04332101</real>
+				<real>495367897.33584797</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>18</integer>
+					<integer>64</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -515,7 +483,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2016-09-04-sierra_menu_icon_rearrange.md</string>
+			<string>2016-09-12-ubuntu_root_enable.md</string>
 		</array>
 		<array>
 			<string>2016-09-10-ubuntu_locale.md</string>
@@ -533,9 +501,6 @@
 			<string>2012-06-07-removeM.md</string>
 		</array>
 		<array>
-			<string>Untitled - 2.md</string>
-		</array>
-		<array>
 			<string>2016-09-04-vim_replace_text.md</string>
 		</array>
 		<array>
@@ -546,9 +511,6 @@
 		</array>
 		<array>
 			<string>2015-11-05-vim-ctrlCcopy.md</string>
-		</array>
-		<array>
-			<string>2016-05-07-gcc_6.1.md</string>
 		</array>
 		<array>
 			<string>2015-11-05-remove_space.md</string>
@@ -671,7 +633,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>61</integer>
+			<integer>65</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
