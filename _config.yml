@@ -7,7 +7,7 @@ url: "http://yourdomain.com"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 permalink: pretty
 
