@@ -476,12 +476,25 @@
 					<integer>64</integer>
 				</dict>
 			</dict>
+			<key>2016-09-12-wulffman_construction.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495382695.38238102</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>67</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>494659311.72391701</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2016-09-12-wulffman_construction.md</string>
+		</array>
 		<array>
 			<string>2016-09-12-ubuntu_root_enable.md</string>
 		</array>
@@ -633,7 +646,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>65</integer>
+			<integer>67</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
