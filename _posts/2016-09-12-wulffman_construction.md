@@ -36,4 +36,17 @@ MEASURE_DIST_DIR = measure_$(MEASURE_VERSION)
 
 `make measure`
 
+
+**Error 해결**
+
+> In file included from mgopengl.c:34:0:
+> mgopenglP.h:32:21: fatal error: GL/glu.h: No such file or directory
+> compilation terminated.
+> make[5](): *** [mgopengl.lo]() Error 1
+> make[5](): Leaving directory `/home/nodolee/geomview-1.9.4/src/lib/mg/opengl'
+> `
+mesa 라이브러리 설치 (libglu1-mesa-dev) 하면 해결된다.
+
+`sudo apt-get install libglu1-mesa-dev`
+
 [1]:	https://sourceforge.net/p/geomview/mailman/message/29503281/
