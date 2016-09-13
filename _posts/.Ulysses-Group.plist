@@ -476,6 +476,16 @@
 					<integer>68</integer>
 				</dict>
 			</dict>
+			<key>2016-09-12-geomview_inst2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495418913.42935002</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>74</integer>
+				</dict>
+			</dict>
 			<key>2016-09-12-ubuntu_root_enable.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -486,16 +496,6 @@
 					<integer>64</integer>
 				</dict>
 			</dict>
-			<key>@- 2016-09-12-geomview_inst2.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>495418873.11847597</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>72</integer>
-				</dict>
-			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>494659311.72391701</real>
@@ -503,7 +503,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>@- 2016-09-12-geomview_inst2.md</string>
+			<string>2016-09-12-geomview_inst2.md</string>
 		</array>
 		<array>
 			<string>2016-09-12-geomview_inst1.md</string>
@@ -659,7 +659,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>73</integer>
+			<integer>75</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
