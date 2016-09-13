@@ -13,7 +13,7 @@ date:   2016-09-12 23:57:23
 이 라이브러리면 에러 없이 컴파일이 가능하다.
 
 
-### **Makefile of Wulffman 1.2.5p1**
+#### **Makefile of Wulffman 1.2.5p1**
 
 ```  
 INCLDIR = -I. -I/usr/include/qhull -I/usr/include  
@@ -40,7 +40,7 @@ $ `make measure`
 
     
   
-### **Error 해결**
+#### **Error 해결**
 
 > In file included from mgopengl.c:34:0:
 > mgopenglP.h:32:21: fatal error: GL/glu.h: No such file or directory
