@@ -16,7 +16,7 @@ date:   2016-09-12 23:57:23
 **Makefile of Wulffman 1.2.5p1**
 
 ```
-INCLDIR = -I. -I/usr/include/qhull -I/usr/include
+INCLDIR = -I. -I/usr/include/qhull -I/usr/include  
 GVINCLDIR = -I/root/geomview-1.9.5/include
 LIBDIR = -L/usr/lib
 VERSION = 1.2.5
@@ -34,7 +34,7 @@ $ `make measure`
 `.geomview`에 Extra Module 경로 설정
 
 ```
-(emodule-define "wulffman" "/applic/wulffman_1.2.5p1/wulffman")
+(emodule-define "wulffman" "/applic/wulffman_1.2.5p1/wulffman")  
 (emodule-define "measure" "/applic/wulffman_1.2.5p1/measure”)
 ```
 
