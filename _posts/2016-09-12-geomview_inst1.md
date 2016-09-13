@@ -48,6 +48,6 @@ $ `make measure`
 > make[5](): *** [mgopengl.lo]() Error 1
 > make[5](): Leaving directory `/home/nodolee/geomview-1.9.4/src/lib/mg/opengl'  
 
-\>> mesa 라이브러리 설치 (libglu1-mesa-dev) 하면 해결된다.
+\>> mesa 라이브러리(libglu1-mesa-dev)를 설치 하면 해결된다.
 
 `sudo apt-get install libglu1-mesa-dev`
