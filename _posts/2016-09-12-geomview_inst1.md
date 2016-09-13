@@ -33,7 +33,7 @@ $ `make measure`
 
 `.geomview`에 Extra Module 경로 설정
 
-```
+```shell
 (emodule-define "wulffman" "/applic/wulffman_1.2.5p1/wulffman")  
 (emodule-define "measure" "/applic/wulffman_1.2.5p1/measure”)
 ```
