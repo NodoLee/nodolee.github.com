@@ -46,7 +46,7 @@ $ `make measure`
 > mgopenglP.h:32:21: fatal error: GL/glu.h: No such file or directory
 > compilation terminated.
 > make[5](): *** [mgopengl.lo]() Error 1
-> make[5](): Leaving directory `/home/nodolee/geomview-1.9.4/src/lib/mg/opengl'  
+> make[5](): Leaving directory `/home/woody/geomview-1.9.4/src/lib/mg/opengl'  
 
 \>> mesa 라이브러리(libglu1-mesa-dev)를 설치 하면 해결된다.
 
