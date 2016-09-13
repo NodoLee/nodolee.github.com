@@ -17,3 +17,5 @@ lsi: true
 gems:
   - jekyll-redirect-from
   - jemoji
+
+baseurl: "/blog"

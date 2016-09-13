@@ -38,6 +38,12 @@ MEASURE_DIST_DIR = measure_$(MEASURE_VERSION)
 `make measure`
 
 
+.geomview에 Extra Module 경로 설정
+
+`(emodule-define "wulffman" "/applic/wulffman_1.2.5p1/wulffman")`
+`(emodule-define "measure" "/applic/wulffman_1.2.5p1/measure”)`
+
+
 **Error 해결**
 
 > In file included from mgopengl.c:34:0:
