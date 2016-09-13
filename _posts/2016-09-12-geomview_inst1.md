@@ -19,12 +19,11 @@ date:   2016-09-12 23:57:23
 `/usr/local/lib` 경로에 가보면 `libgeomview.a`가 있는 것을 볼 수 있다.
 이 라이브러리면 에러 없이 컴파일이 가능하다.
 
-\</br\>\</br\>
 
 **Makefile of Wulffman 1.2.5p1**
 
-```
-`INCLDIR = -I. -I/usr/include/qhull -I/usr/include
+``
+INCLDIR = -I. -I/usr/include/qhull -I/usr/include
 GVINCLDIR = -I/root/geomview-1.9.5/include
 LIBDIR = -L/usr/lib
 VERSION = 1.2.5
@@ -32,8 +31,8 @@ MEASURE_VERSION = 1.1
 TAR_DIR = /users/ryan/geomview/dist_src
 DIST_DIR = wulffman_$(VERSION)
 MEASURE_DIST_DIR = measure_$(MEASURE_VERSION)
-```
-`
+``
+
 `make wulffman`
 
 `make measure`
