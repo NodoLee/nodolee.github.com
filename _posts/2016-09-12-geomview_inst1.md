@@ -33,9 +33,8 @@ DIST_DIR = wulffman_$(VERSION)
 MEASURE_DIST_DIR = measure_$(MEASURE_VERSION)
 ``
 
-`make wulffman`
-
-`make measure`
+```make wulffman```
+```make measure```
 
 
 .geomview에 Extra Module 경로 설정
