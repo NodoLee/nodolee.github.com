@@ -338,52 +338,72 @@
 			</dict>
 			<key>2016-08-03-gcc49-release.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>495895916.00622499</real>
 				<key>lastModification</key>
-				<real>494637334.59755301</real>
+				<real>495895916.00622499</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>2</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-08-30-font_linux.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>495895916.00621998</real>
 				<key>lastModification</key>
-				<real>494659229.18306702</real>
+				<real>495895916.00621998</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>28</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-08-31-ubuntu-ps1.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>495895916.00622702</real>
 				<key>lastModification</key>
-				<real>494659221.513318</real>
+				<real>495895916.00622702</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>26</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-08-31-ubuntu_dpkg.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>495895916.00622201</real>
 				<key>lastModification</key>
-				<real>494659224.51452899</real>
+				<real>495895916.00622201</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>27</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-09-01-mac_terminal.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>495895916.00622898</real>
 				<key>lastModification</key>
-				<real>494659215.889691</real>
+				<real>495895916.00622898</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>25</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-09-03-vim_comment.md</key>
@@ -408,12 +428,16 @@
 			</dict>
 			<key>2016-09-04-vim_replace_text.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>495895916.006217</real>
 				<key>lastModification</key>
-				<real>494659201.87866402</real>
+				<real>495895916.006217</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>24</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-09-05-ssierra_menuicon.md</key>
@@ -428,12 +452,16 @@
 			</dict>
 			<key>2016-09-07-ubuntu_predefs.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>495895916.006212</real>
 				<key>lastModification</key>
-				<real>494891395.86574799</real>
+				<real>495895916.006212</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>42</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-09-09-MacOS_Sierra_GM_public.md</key>
@@ -659,7 +687,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>75</integer>
+			<integer>76</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
