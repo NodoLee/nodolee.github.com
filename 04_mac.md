@@ -20,7 +20,7 @@ order: 2
 1. [터미널 명령어를 이용해 WIFI 를 컨트롤 하는 방법][13]
 1. [iTerm2 터미널 탭과 윈도우 타이틀바에 현재 경로 표시하기][14]
 
-[1]:	http://nodolee.github.io/2016/09/18/homebrew_install/ "macOS Sierra - Homebrew 설치"
+[1]:	http://nodolee.github.io/2016/09/18/homebrew_install-2/ "macOS Sierra - Homebrew 설치"
 [2]:	http://nodolee.github.io/2016/09/09/MacOS_Sierra_GM_public/ "macOS Sierra 퍼블릭 베타테스터용 GM release"
 [3]:	http://nodolee.github.io/2016/09/04/macossierra_menuicon/ "macOS Sierra 상단 메뉴 아이콘 정렬 방법"
 [4]:	http://nodolee.github.io/2016/09/04/macOS_diskbuild/ "macOS Sierra USB 설치 디스크 만들기"
