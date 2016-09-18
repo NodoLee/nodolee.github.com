@@ -336,6 +336,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>2016-08-03-GCC49-release.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896935.07371098</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
+				</dict>
+			</dict>
 			<key>2016-08-03-gcc49-release.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -350,6 +360,16 @@
 					<integer>76</integer>
 				</dict>
 			</dict>
+			<key>2016-08-30-Font_Linux.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896935.07371002</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
+				</dict>
+			</dict>
 			<key>2016-08-30-font_linux.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -362,6 +382,26 @@
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>76</integer>
+				</dict>
+			</dict>
+			<key>2016-08-31-Ubuntu-PS1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896935.07371002</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
+				</dict>
+			</dict>
+			<key>2016-08-31-Ubuntu_dpkg.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896935.07371002</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
 				</dict>
 			</dict>
 			<key>2016-08-31-ubuntu-ps1.md</key>
@@ -392,6 +432,16 @@
 					<integer>76</integer>
 				</dict>
 			</dict>
+			<key>2016-09-01-Mac_terminal.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896935.07370901</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
+				</dict>
+			</dict>
 			<key>2016-09-01-mac_terminal.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -414,6 +464,16 @@
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>2016-09-04-VIM_replace_text.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896935.07370901</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
 				</dict>
 			</dict>
 			<key>2016-09-04-macOS_diskbuild.md</key>
@@ -448,6 +508,16 @@
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>56</integer>
+				</dict>
+			</dict>
+			<key>2016-09-07-Ubuntu_predefs.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896935.073708</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
 				</dict>
 			</dict>
 			<key>2016-09-07-ubuntu_predefs.md</key>
@@ -524,12 +594,35 @@
 					<integer>64</integer>
 				</dict>
 			</dict>
+			<key>2016-09-17-homebrew_install - 2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896959.26397198</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>79</integer>
+				</dict>
+			</dict>
+			<key>2016-09-17-homebrew_install.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>495896935.07371199</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>494659311.72391701</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2016-09-17-homebrew_install - 2.md</string>
+		</array>
 		<array>
 			<string>2016-09-12-geomview_inst2.md</string>
 		</array>
@@ -677,6 +770,30 @@
 		<array>
 			<string>2016-09-05-ssierra_menuicon.md</string>
 		</array>
+		<array>
+			<string>2016-09-07-Ubuntu_predefs.md</string>
+		</array>
+		<array>
+			<string>2016-09-04-VIM_replace_text.md</string>
+		</array>
+		<array>
+			<string>2016-09-01-Mac_terminal.md</string>
+		</array>
+		<array>
+			<string>2016-08-31-Ubuntu_dpkg.md</string>
+		</array>
+		<array>
+			<string>2016-08-31-Ubuntu-PS1.md</string>
+		</array>
+		<array>
+			<string>2016-08-30-Font_Linux.md</string>
+		</array>
+		<array>
+			<string>2016-08-03-GCC49-release.md</string>
+		</array>
+		<array>
+			<string>2016-09-17-homebrew_install.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>title,descending</string>
@@ -687,7 +804,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>76</integer>
+			<integer>80</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
