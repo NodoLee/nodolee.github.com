@@ -594,28 +594,14 @@
 					<integer>64</integer>
 				</dict>
 			</dict>
-			<key>2016-09-17-homebrew_install - 2.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>495896959.26397198</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>79</integer>
-				</dict>
-			</dict>
 			<key>2016-09-17-homebrew_install.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495897135.55062699</real>
 				<key>lastModification</key>
-				<real>495897135.55062699</real>
+				<real>495897278.97522801</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>81</integer>
+					<integer>82</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -624,9 +610,6 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
-		<array>
-			<string>2016-09-17-homebrew_install - 2.md</string>
-		</array>
 		<array>
 			<string>2016-09-12-geomview_inst2.md</string>
 		</array>
@@ -808,7 +791,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>81</integer>
+			<integer>83</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
