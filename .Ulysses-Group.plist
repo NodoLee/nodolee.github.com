@@ -81,6 +81,8 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetOrder</key>
+		<real>495896501.97459698</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
@@ -106,6 +108,8 @@
 			<string>04_mac.md</string>
 		</array>
 	</array>
+	<key>sheetOrder</key>
+	<string>title</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -114,6 +118,11 @@
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 			<integer>5</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>
