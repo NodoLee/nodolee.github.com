@@ -604,12 +604,25 @@
 					<integer>82</integer>
 				</dict>
 			</dict>
+			<key>2016-09-18-MacOS_x11_fail.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496221171.38437903</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>86</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>494659311.72391701</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2016-09-18-MacOS_x11_fail.md</string>
+		</array>
 		<array>
 			<string>2016-09-12-geomview_inst2.md</string>
 		</array>
@@ -791,7 +804,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>83</integer>
+			<integer>87</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
