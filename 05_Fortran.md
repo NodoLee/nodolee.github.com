@@ -15,9 +15,9 @@ INTEGER, PARAMETER::N=100, M=1000
 REAL::A=2.61828
 REAL(KIND=8)::B=3.141592                  ! KIND
 CHARACTER(LEN=8)::CH                      ! LEN
-INTEGER,DIMENSION(-3:5,7)::IAA            ! ARRAY
+INTEGER,DIMENSION(-3:5,7)::IAA        ! ARRAY
 
-TX = 1.0;  TY = 2.0;   TZ = TX * TY
+TX = 1.0;  TY = 2.0;   TZ = TX*TY
 
 PRINT*, &
   TX, TY, TZ
@@ -27,7 +27,3 @@ PRINT*, 'HELLO WORLD'
 
 END PROGRAM HELLOWORLD
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> b758a0871e202e88e57b1a66965c63ac4bdba8dd
