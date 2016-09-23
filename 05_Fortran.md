@@ -27,3 +27,28 @@ PRINT*, 'HELLO WORLD'
 
 END PROGRAM HELLOWORLD
 ```
+
+----
+
+selectcase.f90
+
+```fortran
+PROGRAM SelectCase
+IMPLICIT NONE
+INTEGER::N, K
+WRITE(*,*) 'ENTER THE VALUE N = '
+READ*, N
+
+SELECT CASE(N)
+  CASE(:0)
+     K = -N
+  CASE(10:20)
+    K=N+10
+  CASE DEFAULT
+    K=N
+  CASE(1:5)
+    K=N*10
+END SELECT
+WRITE(*,*) 'K = ',K
+END PROGRAM SelectCase
+```
