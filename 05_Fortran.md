@@ -7,7 +7,7 @@ order: 2
 
 HelloWorld.f90
 
-```
+```fortran
 PROGRAM HELLOWORLD
 IMPLICIT NONE
 REAL::TX, TY, TZ
