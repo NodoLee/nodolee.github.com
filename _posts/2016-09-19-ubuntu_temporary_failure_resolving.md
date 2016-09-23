@@ -12,7 +12,7 @@ Ubuntu에서 `apt-get`을 이용할 때 아래와 같이 Temporary failure resol
 
 그리고 나서 `sudo apt-get update` 을 수행해 본다.
 
-만일 지속해서 에러가 발생한다면 _Google DNS Server (8.8.8.8)_을 영구적으로 등록해줘도 된다.
+만일 지속해서 에러가 발생한다면 *Google DNS Server (8.8.8.8)*을 영구적으로 등록해줘도 된다.
 
 	echo "nameserver 8.8.8.8" | sudo tee /etc/resolvconf/resolv.conf.d/base > /dev/null
 
