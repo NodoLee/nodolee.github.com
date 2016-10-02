@@ -48,7 +48,7 @@ order: 1
 [16]:	http://nodolee.github.io/2015/10/20/Find-oldfiles/
 [17]:	http://nodolee.github.io/2015/10/11/nohup/
 [18]:	http://nodolee.github.io/2015/09/05/xargs-exec/
-[19]:	http://nodolee.github.io/2015/07/10/Linux_Zip/
+[19]:	http://nodolee.github.io/2015/07/11/Linux_Zip/ "리눅스 에서 zip 파일 압축하기/압축풀기"
 [20]:	http://nodolee.github.io/2015/07/10/Rsync_Examples/
 [21]:	http://nodolee.github.io/2015/07/02/Termial_Prompt/
 [22]:	http://nodolee.github.io/2015/06/18/vim_window_split/ "vi editor 에서 창 나누어 보기"
