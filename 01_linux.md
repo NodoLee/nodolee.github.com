@@ -32,7 +32,7 @@ order: 1
 
 [1]:	http://nodolee.github.io/2016/09/19/ubuntu_temporary_failure_resolving/ "Ubuntu - Temporary failure resolving … 에러 해결방법"
 [2]:	http://nodolee.github.io/2016/09/12/ubuntu_root_enable/ "Ubuntu - root 활성화"
-[3]:	http://nodolee.github.io/2016/09/10/ubuntu_locale/ "Ubuntu - Locale 변경 방법"
+[3]:	http://nodolee.github.io/2016/09/11/ubuntu_locale/ "Ubuntu - Locale 변경 방법"
 [4]:	http://nodolee.github.io/2016/09/09/xforms_library/ "Ubuntu - xforms 라이브러리"
 [5]:	http://nodolee.github.io/2016/09/07/Ubuntu_predefs/ "Ubuntu predefs.h 파일 못찾을 때"
 [6]:	http://nodolee.github.io/2016/09/04/VIM_replace_text/ "vi editor 텍스트 치환 방법"
