@@ -34,7 +34,7 @@ order: 1
 [2]:	http://nodolee.github.io/2016/09/12/ubuntu_root_enable/ "Ubuntu - root 활성화"
 [3]:	http://nodolee.github.io/2016/09/11/ubuntu_locale/ "Ubuntu - Locale 변경 방법"
 [4]:	http://nodolee.github.io/2016/09/09/xforms_library/ "Ubuntu - xforms 라이브러리"
-[5]:	http://nodolee.github.io/2016/09/07/Ubuntu_predefs/ "Ubuntu predefs.h 파일 못찾을 때"
+[5]:	http://nodolee.github.io/2016/09/08/Ubuntu_predefs/ "Ubuntu - predefs.h 파일 못찾을 때"
 [6]:	http://nodolee.github.io/2016/09/04/VIM_replace_text/ "vi editor 텍스트 치환 방법"
 [7]:	http://nodolee.github.io/2016/09/03/vim_comment/ "vi editor 주석처리 및 주석제거 방법"
 [8]:	http://nodolee.github.io/2016/08/31/Ubuntu-PS1/
