@@ -9,3 +9,7 @@ Tags:   영화, 마션
 오랫만에 본 우주영화. 우주를 다룬 영화들은 매우 흥미롭다. 최고급 소재들이 우주 탐사에 사용되는 것은 놀라운 일은 아니지만, 볼수록 놀랄 수 밖에 없다.
 
 <img src="https://db.tt/ehvmamqR" align="center" width="380px">
+
+![][image-1]
+
+[image-1]:	https://github.com/NodoLee/nodolee.github.com/blob/master/img/movie_poster_martian.jpg
