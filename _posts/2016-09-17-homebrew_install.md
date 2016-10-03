@@ -7,7 +7,7 @@ date:   2016-09-17 04:57:23
 1. 먼저 command line tool을 설치한다.
 
 ```
-xcode-select --install
+$  xcode-select --install
 ```
 
 	
@@ -21,5 +21,5 @@ xcode-select --install
 3. 소프트웨어 설치로 정상적으로 동작 하는지 확인 해본다.
 
 ```
-brew install wget
+$  brew install wget
 ```
