@@ -16,7 +16,7 @@ Mac의 큰 장점은 리눅스와 같이 GUI 환경 뒤에 강력한 Terminal �
 3. [Xcode][3] : 개발자에게 꼭 필요한.. 기본적인 리눅스 Command 명령어 제공 (아래 4번 방법으로 설치)
 
 4. Xcode Command line tools :
-   `xcode-select --install` 
+	xcode-select --install
 
 5. [Homebrew][4] : Mac을 위한 패키지 관리자
 
