@@ -15,6 +15,7 @@ vi editor 내에서 많은 라인을 한번에 클립보드로 복사해야 될 
 	brew install xclip
 	```
 
+
 2. ~/.vimrc 에 아래 내용 넣어주기  
 
 	```
