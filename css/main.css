@@ -237,6 +237,9 @@ a:visited { color: #205caa; }
   overflow-x: scroll;
 }
 
+img { max-width: 100%; height: auto; }
+
+
 .post code { padding: 1px 5px; }
 
 .post ul,
