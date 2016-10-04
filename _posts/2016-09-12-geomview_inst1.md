@@ -15,7 +15,7 @@ date:   2016-09-12 23:57:23
 
 #### **Makefile of Wulffman 1.2.5p1**
 
-```bash
+```{r, engine='bash', count_lines}
 # C++ compiler
 CPP = g++
 
