@@ -14,7 +14,7 @@ $  vi ~/.bash_profile
 그리고 나서 아래 한줄을 입력해 줍니다.
 
 ```
-export PS1="\u@\[$(tput bold)\]\h\[$(tput sgr0)\] \w \\$\[$(tput sgr0)\]"
+$  export PS1="\u@\[$(tput bold)\]\h\[$(tput sgr0)\] \w \\$\[$(tput sgr0)\]"
 ```
 
 설정값을 적용해 줍니다.
