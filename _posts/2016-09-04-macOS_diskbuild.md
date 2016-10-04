@@ -23,5 +23,7 @@ macOS Sierra developer preview 1 버전이 개발자들에게 공개되었다. �
 	USB 메모리의 쓰기 속도 성능에 따라 수분에서 수십분이 소요될 수 있으니 참고하기 바란다.
 
 	```
+	
 	sudo /Volumes/Install\ 10.12\ Developer\ Preview/Install\ 10.12\ Developer\ Preview.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Volumes/Install\ 10.12\ Developer\ Preview/Install\ 10.12\ Developer\ Preview.app --nointeraction
+	
 	```
