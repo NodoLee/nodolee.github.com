@@ -14,15 +14,19 @@ macOS Sierra developer preview 1 버전이 개발자들에게 공개되었다. �
 **macOS 설치 디스크 만들기**
 
 1. 필자는 현재 dmg 파일을 가지고 있다. dmg 파일을 실행하면 자동으로 마운트가 이루어 진다.
+<br>
 
 1. USB 디스크를 컴퓨터에 연결하고, (반드시) ***Untitled*** 라는 이름으로 포맷을 한다.
+<br>
 
 1. 터미널을 열고
+<br>
 
 1. 아래와 같이 명령어를 입력하면 macOS 설치 디스크가 완성이 된다. USB 메모리의 쓰기 속도 성능에 따라 수분에서 수십분이 소요될 수 있으니 참고하기 바란다.
 
    ```
    sudo /Volumes/Install\ 10.12\ Developer\ Preview/Install\ 10.12\ Developer\ Preview.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Volumes/Install\ 10.12\ Developer\ Preview/Install\ 10.12\ Developer\ Preview.app --nointeraction
    ```
-   
-   <br>
+
+
+<br>
