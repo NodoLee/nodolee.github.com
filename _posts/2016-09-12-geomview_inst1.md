@@ -57,9 +57,17 @@ DIST_DIR = wulffman_$(VERSION)
 MEASURE_DIST_DIR = measure_$(MEASURE_VERSION)  
 ```
 
-$ `make wulffman`
+wulffman module 설치
 
-$ `make measure`
+```
+$ make wulffman
+```
+
+Measure module 설치
+
+```
+$ make measure
+```
 
 
 `.geomview`에 Extra Module 경로 설정
