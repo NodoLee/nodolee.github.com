@@ -231,9 +231,9 @@ a:visited { color: #205caa; }
   /*background-color: #eef;*/
   background-color: #f7f7f7;
   padding: 6px 10px;
-  -webkit-border-radius: 1px;
-  -moz-border-radius: 1px;
-  border-radius: 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   font-size: 13px;
   overflow-x: scroll;
 }
