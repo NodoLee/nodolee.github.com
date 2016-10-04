@@ -230,11 +230,11 @@ a:visited { color: #205caa; }
   border: 1px solid #d5d5e9;
   /*background-color: #eef;*/
   background-color: #f7f7f7;
-  padding: 8px 12px;
+  padding: 7px 11px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
-  border-radius: 3px;
-  font-size: 15px;
+  border-radius: 2px;
+  font-size: 14px;
   overflow-x: scroll;
 }
 
