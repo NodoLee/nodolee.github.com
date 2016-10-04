@@ -15,7 +15,7 @@ date:   2016-09-12 23:57:23
 
 #### **Makefile of Wulffman 1.2.5p1**
 
-```shell
+```bash
 # C++ compiler
 CPP = g++
 
