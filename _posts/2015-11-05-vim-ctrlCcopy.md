@@ -12,7 +12,7 @@ vi editor 내에서 많은 라인을 한번에 클립보드로 복사해야 될 
 1. xclip 설치하기     
 
    ```
-   brew install xclip
+   $  brew install xclip
    ```
 <br>
 
