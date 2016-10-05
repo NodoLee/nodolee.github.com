@@ -42,7 +42,7 @@ order: 1
 [10]:	http://nodolee.github.io/2016/08/30/Font_Linux/
 [11]:	http://nodolee.github.io/2016/08/03/GCC49-release/
 [12]:	http://nodolee.github.io/2015/12/08/modulefile/ "Modules 기능 사용시 modulefile 인식 가능한 PATH 등록하기"
-[13]:	http://nodolee.github.io/2015/12/03/gcc-installation/
+[13]:	http://nodolee.github.io/2015/12/03/gcc_installation/
 [14]:	http://nodolee.github.io/2015/11/05/vim-ctrlCcopy/
 [15]:	http://nodolee.github.io/2015/10/20/Find-oldfiles/
 [16]:	http://nodolee.github.io/2015/10/20/Find-oldfiles/
