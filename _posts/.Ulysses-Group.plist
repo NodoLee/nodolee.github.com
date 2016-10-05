@@ -268,12 +268,16 @@
 			</dict>
 			<key>2015-12-03-gcc-installation.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>497356251.73413903</real>
 				<key>lastModification</key>
-				<real>494637334.59754199</real>
+				<real>497356251.73413903</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>2</integer>
+					<integer>94</integer>
 				</dict>
 			</dict>
 			<key>2015-12-08-modulefile.md</key>
@@ -346,20 +350,6 @@
 					<integer>78</integer>
 				</dict>
 			</dict>
-			<key>2016-08-03-gcc49-release.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495895916.00622499</real>
-				<key>lastModification</key>
-				<real>495895916.00622499</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>76</integer>
-				</dict>
-			</dict>
 			<key>2016-08-30-Font_Linux.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -368,20 +358,6 @@
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>78</integer>
-				</dict>
-			</dict>
-			<key>2016-08-30-font_linux.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495895916.00621998</real>
-				<key>lastModification</key>
-				<real>495895916.00621998</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-08-31-Ubuntu-PS1.md</key>
@@ -404,34 +380,6 @@
 					<integer>78</integer>
 				</dict>
 			</dict>
-			<key>2016-08-31-ubuntu-ps1.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495895916.00622702</real>
-				<key>lastModification</key>
-				<real>495895916.00622702</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>76</integer>
-				</dict>
-			</dict>
-			<key>2016-08-31-ubuntu_dpkg.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495895916.00622201</real>
-				<key>lastModification</key>
-				<real>495895916.00622201</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>76</integer>
-				</dict>
-			</dict>
 			<key>2016-09-01-Mac_terminal.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -440,20 +388,6 @@
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>78</integer>
-				</dict>
-			</dict>
-			<key>2016-09-01-mac_terminal.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495895916.00622898</real>
-				<key>lastModification</key>
-				<real>495895916.00622898</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-09-03-vim_comment.md</key>
@@ -486,20 +420,6 @@
 					<integer>29</integer>
 				</dict>
 			</dict>
-			<key>2016-09-04-vim_replace_text.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495895916.006217</real>
-				<key>lastModification</key>
-				<real>495895916.006217</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>76</integer>
-				</dict>
-			</dict>
 			<key>2016-09-05-ssierra_menuicon.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -518,20 +438,6 @@
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>78</integer>
-				</dict>
-			</dict>
-			<key>2016-09-07-ubuntu_predefs.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495895916.006212</real>
-				<key>lastModification</key>
-				<real>495895916.006212</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>76</integer>
 				</dict>
 			</dict>
 			<key>2016-09-09-MacOS_Sierra_GM_public.md</key>
@@ -655,13 +561,7 @@
 			<string>2016-09-09-MacOS_Sierra_GM_public.md</string>
 		</array>
 		<array>
-			<string>2016-09-07-ubuntu_predefs.md</string>
-		</array>
-		<array>
 			<string>2012-06-07-removeM.md</string>
-		</array>
-		<array>
-			<string>2016-09-04-vim_replace_text.md</string>
 		</array>
 		<array>
 			<string>2016-05-25-hazel.md</string>
@@ -739,19 +639,7 @@
 			<string>2016-09-04-macOS_diskbuild.md</string>
 		</array>
 		<array>
-			<string>2016-08-30-font_linux.md</string>
-		</array>
-		<array>
 			<string>2016-06-20-SFmono-Font.md</string>
-		</array>
-		<array>
-			<string>2016-08-31-ubuntu_dpkg.md</string>
-		</array>
-		<array>
-			<string>2016-08-03-gcc49-release.md</string>
-		</array>
-		<array>
-			<string>2016-08-31-ubuntu-ps1.md</string>
 		</array>
 		<array>
 			<string>2015-10-20-Find-oldfiles.md</string>
@@ -773,9 +661,6 @@
 		</array>
 		<array>
 			<string>2015-05-28-Linux-Epelerror.md</string>
-		</array>
-		<array>
-			<string>2016-09-01-mac_terminal.md</string>
 		</array>
 		<array>
 			<string>2016-09-03-vim_comment.md</string>
@@ -817,7 +702,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>93</integer>
+			<integer>94</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
