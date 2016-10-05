@@ -14,7 +14,7 @@ date:   2016-09-17 04:57:23
 2. 아래 내용을 터미널에 붙여 넣는다.
 
    ```sh
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
    ```
 <br>
 
