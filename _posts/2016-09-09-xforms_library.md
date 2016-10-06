@@ -8,4 +8,4 @@ Ubuntu에서 xforms 라이브러리를 쓸일이 생겼다.
 
 설치는 `apt-get` 을  이용하면 편리하다.
 
-`sudo apt-get install libforms-dev`
+	$  sudo apt-get install libforms-dev
