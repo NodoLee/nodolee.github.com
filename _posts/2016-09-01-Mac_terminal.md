@@ -17,9 +17,9 @@ Mac의 큰 장점은 리눅스와 같이 GUI 환경 뒤에 강력한 Terminal �
 
 4. Xcode Command line tools :
 
-
+	```sh
 	$  xcode-select --install
-
+	```
 
 5. [Homebrew][4] : Mac을 위한 패키지 관리자
 
