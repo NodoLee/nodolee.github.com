@@ -11,17 +11,17 @@ Mac의 큰 장점은 리눅스와 같이 GUI 환경 뒤에 강력한 Terminal �
 
 1. [iTerm2][1] : 최고의 Terminal App
 
-2. [XQuartz][2] : Windows 에서는 따라올 수 없는 x-forwarding 성능
+1. [XQuartz][2] : Windows 에서는 따라올 수 없는 x-forwarding 성능
 
-3. [Xcode][3] : 개발자에게 꼭 필요한.. 기본적인 리눅스 Command 명령어 제공 (아래 4번 방법으로 설치)
+1. [Xcode][3] : 개발자에게 꼭 필요한.. 기본적인 리눅스 Command 명령어 제공 (아래 4번 방법으로 설치)
 
-4. Xcode Command line tools :
+1. Xcode Command line tools :
 
     ```
     $  xcode-select --install
     ```
-
-5. [Homebrew][4] : Mac을 위한 패키지 관리자
+    
+1. [Homebrew][4] : Mac을 위한 패키지 관리자
 
    - 유용한 필수 페키지
 
