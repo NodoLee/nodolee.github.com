@@ -7,9 +7,9 @@ date:   2016-08-31 00:57:23
 
 우분투에서 apt-get 이용시 아래와 같은 dpkg lock 오류가 발생할 때가 있다.
 
-E: Could not get lock /var/lib/dpkg/lock - open (11 Resource temporarily unavailable)
+> E: Could not get lock /var/lib/dpkg/lock - open (11 Resource temporarily unavailable)
 <br>
-E: Unable to lock the administration directory (/var/lib/dpkg/) is another process using it?  
+> E: Unable to lock the administration directory (/var/lib/dpkg/) is another process using it?  
 
 이 때 Lock 파일을 삭제해 주면 해결할 수 있다.
 
@@ -19,4 +19,4 @@ E: Unable to lock the administration directory (/var/lib/dpkg/) is another proce
 
 	sudo rm /var/cache/apt/archives/lock
 
-> 참고
+참고
