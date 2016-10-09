@@ -16,7 +16,7 @@ CentOS 6.8 기준으로는 해당 경로에 가시면 Font Family로 하위폴�
 
 이제 폰트 캐쉬를 갱신합니다.
 
-    fc-cache -f -v
+    $  fc-cache -f -v
     
 그럼 윈도우 폰트를 LibreOffice 및 Firefox 등에서 사용할 수 있습니다.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Geomview 1.9.5 설치1
+title:  Geomview 1.9.5 설치 - 에러 해결방법
 date:   2016-09-12 23:57:23
 ---
 
@@ -15,20 +15,59 @@ date:   2016-09-12 23:57:23
 
 #### **Makefile of Wulffman 1.2.5p1**
 
-```  
-INCLDIR = -I. -I/usr/include/qhull -I/usr/include  
-GVINCLDIR = -I/root/geomview-1.9.5/include  
-LIBDIR = -L/usr/lib  
-VERSION = 1.2.5  
-MEASURE_VERSION = 1.1  
-TAR_DIR = /users/ryan/geomview/dist_src  
-DIST_DIR = wulffman_$(VERSION)  
+```shell
+# C++ compiler
+CPP = g++
+
+# C compiler
+CC = gcc
+
+# Directories for forms.h and qhull.h
+INCLDIR = -I. -I/usr/include/qhull -I/usr/include
+
+# Directory for geomview header files (for measure only)
+#GVINCLDIR = -I$(GEOMVIEW_INCLUDE_DIR)
+GVINCLDIR = -I/root/geomview-1.9.5/include
+
+# Directories for -lforms and -lqhull
+LIBDIR = -L/usr/lib
+
+# Directory for liboogl.a (for measure only)
+GVLIBDIR =
+
+#C, C++ Compiler Flags
+CFLAGS = -O2 -DHAVE_CONFIG_H
+CPPFLAGS = -O2 -DHAVE_CONFIG_H
+
+# If qhull is available, USE_QHULL and QHULL_LIB should be defined
+# (i.e., the lines below this block should be uncommented). Qhull is
+# highly recommended: the other algorithm is dreadfully slow.
+USE_QHULL = -DUSE_QHULL
+QHULL_LIB = -lqhull
+
+# If you don't have qhull, uncomment the following two lines.
+#USE_QHULL =
+#QHULL_LIB =
+
+# Distribution Directory
+VERSION = 1.2.5
+MEASURE_VERSION = 1.1
+TAR_DIR = /users/ryan/geomview/dist_src
+DIST_DIR = wulffman_$(VERSION)
 MEASURE_DIST_DIR = measure_$(MEASURE_VERSION)  
 ```
 
-$ `make wulffman`
+wulffman module 설치
 
-$ `make measure`
+```
+$ make wulffman
+```
+
+Measure module 설치
+
+```
+$ make measure
+```
 
 
 `.geomview`에 Extra Module 경로 설정
