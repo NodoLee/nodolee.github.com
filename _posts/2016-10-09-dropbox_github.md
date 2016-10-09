@@ -18,13 +18,13 @@ dropbox를 github 저장소로 사용하는 방법을 정리해 놓은 blog이�
     
     위의 명령어를 실행하로 `ID`와 `Password`를 입력해주면 설정이 완료된다
 
-<br><br>
+
 
 1. 변경내용 Push 하는 방법
 
         $  git add -A && git commit -m "update" && git push
 
-<br><br>
+
     
 1. 다른 컴퓨터에서 Online 내용과 동기화 하는 방법
 
