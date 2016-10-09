@@ -13,7 +13,6 @@ dropbox를 github 저장소로 사용하는 방법을 정리해 놓은 blog이�
 아래 사이트가 도움이 될 것 같다.
 
 ---
-
 ### Case by Case
 
 **Github로 현재 컴퓨터에서 upstream이 가능하도록 하는 방법**
