@@ -12,4 +12,7 @@ dropbox를 github 저장소로 사용하는 방법을 정리해 놓은 blog이�
 
 아래 사이트가 도움이 될 것 같다.
 
-[Dropbox 를 Git 저장소로 사용하기](http://byteclass.tistory.com/19)
+---
+참조
+
+- [Dropbox 를 Git 저장소로 사용하기](http://byteclass.tistory.com/19)
