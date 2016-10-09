@@ -347,12 +347,16 @@
 				<key>firstUnassignment</key>
 				<real>495895916.00622499</real>
 				<key>lastModification</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream:_posts/.Ulysses-Group.plist
+=======
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				<real>495896935.07371098</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>78</integer>
+<<<<<<< HEAD
 =======
 				<real>495895916.00622499</real>
 				<key>version</key>
@@ -360,6 +364,8 @@
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>76</integer>
 >>>>>>> Stashed changes:nodolee.github.com/_posts/.Ulysses-Group.plist
+=======
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				</dict>
 			</dict>
 			<key>2016-08-30-Font_Linux.md</key>
@@ -369,12 +375,16 @@
 				<key>firstUnassignment</key>
 				<real>495895916.00621998</real>
 				<key>lastModification</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream:_posts/.Ulysses-Group.plist
+=======
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				<real>495896935.07371002</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>78</integer>
+<<<<<<< HEAD
 =======
 				<real>495895916.00621998</real>
 				<key>version</key>
@@ -382,6 +392,8 @@
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>76</integer>
 >>>>>>> Stashed changes:nodolee.github.com/_posts/.Ulysses-Group.plist
+=======
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				</dict>
 			</dict>
 			<key>2016-08-31-Ubuntu-PS1.md</key>
@@ -391,6 +403,7 @@
 				<key>firstUnassignment</key>
 				<real>495895916.00622702</real>
 				<key>lastModification</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream:_posts/.Ulysses-Group.plist
 				<real>495896935.07371002</real>
 				<key>version</key>
@@ -404,6 +417,13 @@
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>76</integer>
 >>>>>>> Stashed changes:nodolee.github.com/_posts/.Ulysses-Group.plist
+=======
+				<real>495896935.07371002</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				</dict>
 			</dict>
 			<key>2016-08-31-Ubuntu_dpkg.md</key>
@@ -413,12 +433,16 @@
 				<key>firstUnassignment</key>
 				<real>495895916.00622201</real>
 				<key>lastModification</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream:_posts/.Ulysses-Group.plist
+=======
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				<real>495896935.07371002</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>78</integer>
+<<<<<<< HEAD
 =======
 				<real>495895916.00622201</real>
 				<key>version</key>
@@ -426,6 +450,8 @@
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>76</integer>
 >>>>>>> Stashed changes:nodolee.github.com/_posts/.Ulysses-Group.plist
+=======
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				</dict>
 			</dict>
 			<key>2016-09-01-Mac_terminal.md</key>
@@ -435,6 +461,7 @@
 				<key>firstUnassignment</key>
 				<real>495895916.00622898</real>
 				<key>lastModification</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream:_posts/.Ulysses-Group.plist
 				<real>495896935.07370901</real>
 				<key>version</key>
@@ -448,6 +475,13 @@
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>76</integer>
 >>>>>>> Stashed changes:nodolee.github.com/_posts/.Ulysses-Group.plist
+=======
+				<real>495896935.07370901</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>78</integer>
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				</dict>
 			</dict>
 			<key>2016-09-03-vim_comment.md</key>
@@ -477,6 +511,7 @@
 				<key>firstUnassignment</key>
 				<real>495895916.006217</real>
 				<key>lastModification</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream:_posts/.Ulysses-Group.plist
 				<real>494660241.27723998</real>
 				<key>version</key>
@@ -490,6 +525,13 @@
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>76</integer>
 >>>>>>> Stashed changes:nodolee.github.com/_posts/.Ulysses-Group.plist
+=======
+				<real>494660241.27723998</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>29</integer>
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				</dict>
 			</dict>
 			<key>2016-09-05-ssierra_menuicon.md</key>
@@ -509,12 +551,16 @@
 				<key>firstUnassignment</key>
 				<real>495895916.006212</real>
 				<key>lastModification</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream:_posts/.Ulysses-Group.plist
+=======
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				<real>495896935.073708</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>78</integer>
+<<<<<<< HEAD
 =======
 				<real>495895916.006212</real>
 				<key>version</key>
@@ -522,6 +568,8 @@
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 					<integer>76</integer>
 >>>>>>> Stashed changes:nodolee.github.com/_posts/.Ulysses-Group.plist
+=======
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 				</dict>
 			</dict>
 			<key>2016-09-09-MacOS_Sierra_GM_public.md</key>
@@ -786,11 +834,15 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream:_posts/.Ulysses-Group.plist
 			<integer>94</integer>
 =======
 			<integer>76</integer>
 >>>>>>> Stashed changes:nodolee.github.com/_posts/.Ulysses-Group.plist
+=======
+			<integer>94</integer>
+>>>>>>> 61230da3f09176dae8d279b97f373fd32c373f21
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

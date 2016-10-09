@@ -2,8 +2,95 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array>
+		<string>New Folder</string>
+		<string>_includes</string>
+		<string>src</string>
+		<string>css</string>
+		<string>_posts</string>
+		<string>_layouts</string>
+		<string>nodolee.github.com</string>
+	</array>
 	<key>resolutionData</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>New Folder</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>496221120.02458203</real>
+				<key>lastModification</key>
+				<real>496221120.02458203</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>_includes</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496221110.02057302</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>_layouts</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496221110.020576</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>_posts</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496221110.02057499</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>css</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496221110.02057499</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>nodolee.github.com</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496221110.020576</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>src</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496221110.02057397</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>01_linux.md</key>
@@ -56,20 +143,6 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2016-09-12-wulffman_construction.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>495382695.384646</real>
-				<key>lastModification</key>
-				<real>495382695.384646</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>5</integer>
-				</dict>
-			</dict>
 			<key>_config.yml</key>
 			<dict>
 				<key>lastModification</key>
@@ -81,12 +154,11 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetOrder</key>
+		<real>495896501.97459698</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
-		<array>
-			<string>2016-09-12-wulffman_construction.md</string>
-		</array>
 		<array>
 			<string>01_linux.md</string>
 		</array>
@@ -106,14 +178,26 @@
 			<string>04_mac.md</string>
 		</array>
 	</array>
+	<key>sheetOrder</key>
+	<string>title</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+			<integer>3</integer>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 			<integer>5</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>
