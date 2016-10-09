@@ -4,7 +4,6 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>New Folder</string>
 		<string>_includes</string>
 		<string>src</string>
 		<string>css</string>
@@ -16,20 +15,6 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
-			<key>New Folder</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>496221120.02458203</real>
-				<key>lastModification</key>
-				<real>496221120.02458203</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>3</integer>
-				</dict>
-			</dict>
 			<key>_includes</key>
 			<dict>
 				<key>lastModification</key>
@@ -72,12 +57,18 @@
 			</dict>
 			<key>nodolee.github.com</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>497710328.85672998</real>
 				<key>lastModification</key>
-				<real>496221110.020576</real>
+				<real>497710328.85672998</real>
 				<key>version</key>
 				<dict>
 					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>2</integer>
+					<integer>3</integer>
+					<key>a9f8b98695318a7e8ba7ba746b263c948d50d5805fc87f38f253e01cf499d3e1</key>
+					<integer>1</integer>
 				</dict>
 			</dict>
 			<key>src</key>
@@ -188,6 +179,8 @@
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
 			<integer>3</integer>
+			<key>a9f8b98695318a7e8ba7ba746b263c948d50d5805fc87f38f253e01cf499d3e1</key>
+			<integer>1</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
