@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git 저장소로 사용법 정리"
+title:  "Git 저장소 사용법 정리"
 date:   2016-10-09
 Tags:   Dropbox, Github
 
