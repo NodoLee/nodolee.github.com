@@ -536,22 +536,6 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2016-10-08-shell_case.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>498303270.28077</real>
-				<key>lastModification</key>
-				<real>498303270.28077</real>
-				<key>version</key>
-				<dict>
-					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-					<integer>1</integer>
-					<key>a9f8b98695318a7e8ba7ba746b263c948d50d5805fc87f38f253e01cf499d3e1</key>
-					<integer>4</integer>
-				</dict>
-			</dict>
 			<key>2016-10-09-dropbox_github.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -574,6 +558,18 @@
 					<integer>4</integer>
 				</dict>
 			</dict>
+			<key>2016-10-30-New_MacBookPro.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499530957.43786198</real>
+				<key>version</key>
+				<dict>
+					<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
+					<integer>12</integer>
+					<key>a9f8b98695318a7e8ba7ba746b263c948d50d5805fc87f38f253e01cf499d3e1</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>497710344.21373701</real>
@@ -582,6 +578,9 @@
 	<array>
 		<array>
 			<string>2016-10-17-Ubuntu_disk_format.md</string>
+		</array>
+		<array>
+			<string>2016-10-30-New_MacBookPro.md</string>
 		</array>
 		<array>
 			<string>2012-06-07-removeM.md</string>
@@ -731,9 +730,6 @@
 			<string>2016-10-09-dropbox_github.md</string>
 		</array>
 		<array>
-			<string>2016-10-08-shell_case.md</string>
-		</array>
-		<array>
 			<string>2016-09-29-movie_sully.md</string>
 		</array>
 		<array>
@@ -758,7 +754,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>93c6e74b49a665086edd1b50f8e56b38a84303e4e3f252cfcca75fc75fcc7854</key>
-			<integer>5</integer>
+			<integer>13</integer>
 			<key>a9f8b98695318a7e8ba7ba746b263c948d50d5805fc87f38f253e01cf499d3e1</key>
 			<integer>4</integer>
 		</dict>
