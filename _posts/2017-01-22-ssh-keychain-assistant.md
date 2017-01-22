@@ -20,6 +20,6 @@ Host * (asterisk for all hosts or add specific host)
 
 **더보기**
 
-- [리눅스 반복 예약작업 cron, crond, crontab][1]
+- [Saving SSH keys in macOS Sierra keychain][1]
 
-[1]:	http://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_%EB%B0%98%EB%B3%B5_%EC%98%88%EC%95%BD%EC%9E%91%EC%97%85_cron,_crond,_crontab
+[1]:	https://github.com/jirsbek/SSH-keys-in-macOS-Sierra-keychain
