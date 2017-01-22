@@ -9,8 +9,14 @@ macOS Sierra로 업그레이드를 한 이후부터 ssh-keychain을 사용하는
 
 해결방법은 여러가지가 있지만, 가장 편리한 방법을 이용하기로 함.
 
-/.ssh/config 파일을 만들어 주고 파일 안에는 아래와 같이 입력해 준다.
+`~/.ssh/config` 파일을 만들어 주고 파일 안에는 아래와 같이 입력해 준다.
 
+```
+Host * (asterisk for all hosts or add specific host)
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_rsa
+```
 
 **더보기**
 
