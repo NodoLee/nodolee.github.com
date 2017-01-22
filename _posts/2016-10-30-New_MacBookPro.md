@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “New MacBook Pro“
+title:  New MacBook Pro
 date:   2016-10-30
 Tags:   Mac, MacBook Pro, 
 ---
