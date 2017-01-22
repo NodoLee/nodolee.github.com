@@ -18,6 +18,13 @@ Host * (asterisk for all hosts or add specific host)
   IdentityFile ~/.ssh/id_rsa
 ```
 
+참고로 openSSH 버전을 확인하는 방법은
+
+```
+ssh -V
+```
+
+
 **더보기**
 
 - [Saving SSH keys in macOS Sierra keychain][1]
