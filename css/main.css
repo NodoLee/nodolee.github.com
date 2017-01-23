@@ -225,7 +225,8 @@ a:visited { color: #205caa; }
 .post-content ul,
 .post-content ol { padding-left: 20px; }
 
-.post pre, code {
+.post pre,
+.post code {
   border: 0px solid #d5d5e9;
   display: block;
   /*background-color: #eef;*/
